@@ -1,1 +1,2 @@
-# Bankruptcy_prediction
+The objective of this project is to train a classification model which classifies whether a company will go bankrupt or not by the end of the financial time period,i.e,5 years.
+We are going to train the model with a dataset containing 5 years data where in each year there is a list of companies ,their financial statements of that year ,their bankruptcy status at the end of that year.We are training different models and compare their efficiency.
